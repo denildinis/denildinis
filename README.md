@@ -1,6 +1,6 @@
 # Hi, I'm Denil Dinis 👋
 
-### Full-Stack Developer | React.js, Node.js, PHP & MySQL
+### About me
 
 I'm a Software Development enthusiast from Angola, focused on building practical web applications and improving my skills through hands-on projects.
 
