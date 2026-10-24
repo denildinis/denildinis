@@ -6,13 +6,39 @@ I'm a Software Development enthusiast from Angola, focused on building practical
 
 I enjoy turning ideas into functional digital solutions, from responsive user interfaces to backend logic and database integration.
 
+
 ### 🛠️ Technologies & Tools
 
-- **Frontend:** HTML5, CSS3, JavaScript, React.js
-- **Backend:** PHP, Node.js
-- **Database:** MySQL
-- **Tools:** Git, GitHub, Figma
-- **Other:** REST APIs, UML, database modelling, Scrum
+**Frontend**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React" />
+</p>
+
+**Backend**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="42" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" height="42" alt="C" />
+</p>
+
+**Database**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" />
+</p>
+
+**Tools & Design**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" height="42" alt="Figma" />
+</p>
+
+**Other Skills**
+
+REST APIs · UML · Entity-Relationship Modelling (MER) · Scrum
 
 ### 🚀 Featured Projects
 
