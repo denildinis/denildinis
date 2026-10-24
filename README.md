@@ -1,37 +1,39 @@
 # Hi, I'm Denil Dinis 👋
 
-### About me
+### 👨‍💻 About Me
 
-I'm a Software Development enthusiast from Angola, focused on building practical web applications and improving my skills through hands-on projects.
+I'm a Software Developer from Angola, passionate about building practical web applications and creating digital solutions that solve real-world problems.
 
-I enjoy turning ideas into functional digital solutions, from responsive user interfaces to backend logic and database integration.
+My main focus is Full-Stack Web Development, from designing responsive user interfaces to developing backend functionality and integrating databases.
 
-
+I enjoy learning new technologies, solving problems, and continuously improving my skills through hands-on projects.
 
 ### 🛠️ My Skills
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,php,nodejs,c,mysql,git,github,figma&perline=15" alt="Minhas Habilidades" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,php,nodejs,c,mysql,git,github,figma&perline=15" alt="My Skills" />
   </a>
 </p>
 
 ### 🚀 Featured Projects
 
-- **[Kwenda](https://github.com/denildinis/kwenda)** — A web platform for scheduling banking services and helping organise customer appointments.
-- **[Sports Academy](https://github.com/denildinis/sports-academy)** — A web project developed with PHP.
-- **[Insonia Clone](https://github.com/denildinis/insonia-clone)** — A web interface recreation project.
+- **Stagely** — A web-based internship management platform designed to streamline the organisation, monitoring, and evaluation of student internships.
+
+- **[Kwenda](https://github.com/denildinis/kwenda)** — A web platform designed to simplify banking service appointments, reduce waiting times, and improve the customer experience.
+
+- **Growth to Business** — A business-focused web project designed to present services and digital solutions through a modern, responsive interface.
 
 ### 🎯 Currently Focused On
 
-- Exploring Artificial Intelligence, Automation, and Cybersecurity.
-- Improving my software development skills.
-- Learning through practical projects and collaboration.
+- Exploring **Artificial Intelligence, Automation, and Cybersecurity**.
+- Strengthening my **software development skills**.
+- Learning through **hands-on projects and collaboration**.
 
 ### 📫 Connect With Me
 
-- **LinkedIn:** [denildinis](https://www.linkedin.com/in/denildinis/)
-- **Email:** denildinis1@gmail.com
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/denildinis/)
+- **Email:** [denildinis1@gmail.com](mailto:denildinis1@gmail.com)
 
 ### 🤝 Let's Connect!
 
