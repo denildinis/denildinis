@@ -24,12 +24,15 @@ I enjoy turning ideas into functional digital solutions, from responsive user in
 
 ### 🎯 Currently Focused On
 
-- Building and improving full-stack web applications.
-- Strengthening my software development skills.
+- Exploring Artificial Intelligence, Automation, and Cybersecurity.
+- Improving my software development skills.
 - Learning through practical projects and collaboration.
 
 ### 📫 Connect With Me
 
 - **LinkedIn:** [denildinis](https://www.linkedin.com/in/denildinis/)
-- **GitHub:** [@denildinis](https://github.com/denildinis)
 - **Email:** denildinis1@gmail.com
+
+### 🤝 Let's Connect!
+
+Feel free to reach out to discuss projects, share ideas, collaborate, or simply have a chat about technology. I'm always happy to connect with fellow developers and tech enthusiasts!
