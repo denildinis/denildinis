@@ -30,9 +30,9 @@ I enjoy learning new technologies, solving problems, and continuously improving 
 - Strengthening my **software development skills**.
 - Learning through **hands-on projects and collaboration**.
 
-### 📫 Connect With Me
+### 📫 Contact
 
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/denildinis/)
+- **LinkedIn:** [Denil Dinis](https://www.linkedin.com/in/denildinis/)
 - **Email:** [denildinis1@gmail.com](mailto:denildinis1@gmail.com)
 
 ### 🤝 Let's Connect!
