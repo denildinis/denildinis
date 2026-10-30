@@ -18,11 +18,11 @@ I enjoy learning new technologies, solving problems, and continuously improving 
 
 ### 🚀 Featured Projects
 
-- **Stagely** — A web-based internship management platform designed to streamline the organisation, monitoring, and evaluation of student internships.
+- **[Stagely](https://github.com/denildinis/stagely)** - A web-based internship management platform designed to streamline the organisation, monitoring, and evaluation of student internships.
 
-- **[Kwenda](https://github.com/denildinis/kwenda)** — A web platform designed to simplify banking service appointments, reduce waiting times, and improve the customer experience.
+- **[Kwenda](https://github.com/denildinis/kwenda)** - A web platform designed to simplify banking service appointments, reduce waiting times, and improve the customer experience.
 
-- **Growth to Business** — A business-focused web project designed to present services and digital solutions through a modern, responsive interface.
+- **[Nahora](https://github.com/denildinis/nahora)** - A business-focused web project designed to present services and digital solutions through a modern, responsive interface.
 
 ### 🎯 Currently Focused On
 
